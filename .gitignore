@@ -18,3 +18,4 @@ yarn-error.log*
 /android.config.json
 .idea
 .babelrc
+.gitignore
