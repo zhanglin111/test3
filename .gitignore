@@ -14,8 +14,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.postcssrc.js
 /ios.config.json
 /android.config.json
 .idea
 .babelrc
-/.gitignore
+.gitignore
+
